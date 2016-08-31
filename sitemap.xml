@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
 <url>
 <loc>
-http://boomtownmemorial.com/events/
+http://boomtown.torspark.com/events/
 </loc>
 <priority>
 0.7
@@ -16,7 +16,7 @@ monthly
 </url>
 <url>
 <loc>
-http://boomtownmemorial.com/sponsors/
+http://boomtown.torspark.com/sponsors/
 </loc>
 <priority>
 0.5
@@ -30,7 +30,7 @@ monthly
 </url>
 <url>
 <loc>
-http://boomtownmemorial.com/
+http://boomtown.torspark.com/
 </loc>
 <priority>
 0.7
@@ -44,7 +44,7 @@ monthly
 </url>
 <url>
 <loc>
-http://boomtownmemorial.com/about/
+http://boomtown.torspark.com/about/
 </loc>
 <priority>
 0.5
@@ -58,7 +58,7 @@ monthly
 </url>
 <url>
 <loc>
-http://boomtownmemorial.com/update/
+http://boomtown.torspark.com/update/
 </loc>
 <priority>
 0.5
