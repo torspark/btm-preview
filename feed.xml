@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Boomtown Memorial</title>
   <subtitle>For Matt &amp; Sunday</subtitle>
-  <id>http://boomtown.torspark.com</id>
-  <link href="http://boomtown.torspark.com"/>
-  <link href="http://boomtown.torspark.com/feed.xml" rel="self"/>
+  <id>http://boomtownmemorial.com</id>
+  <link href="http://boomtownmemorial.com"/>
+  <link href="http://boomtownmemorial.com/feed.xml" rel="self"/>
   <author>
     <name>Chris Olds</name>
   </author>
